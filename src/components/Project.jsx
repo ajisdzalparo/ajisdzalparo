@@ -19,7 +19,7 @@ const projects = [
     imgSrc: "./images/project-tiket-wisata.png",
     title: "Web Pemesanan Tiket Wisata - Codeigniter 3",
     tags: ["Codeigniter", "PHP"],
-    projectLink: "https://pixstock-official.vercel.app/",
+    projectLink: "https://github.com/ajisdzalparo/pemesanan-tiket-wisata-berbasis-web-ci3",
   },
   {
     imgSrc: "./images/project-stickynote.png",
