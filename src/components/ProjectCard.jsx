@@ -10,7 +10,7 @@ import PropTypes from "prop-types";
 
 export const ProjectCard = ({ imgSrc, title, tags, projectLink, classes }) => {
   return (
-    <div className={"relative p-4 rounded-2xl bg-zinc-800/50 hover:bg-zinc-700/50 active:bg-zinc-700/60 hover:scale-[1.02] ring-1 ring-inset ring-zinc-50/5 transition-transform duration-300" + classes}>
+    <div className={"relative p-4 rounded-2xl bg-zinc-800 hover:bg-zinc-700 active:bg-zinc-700/60 hover:scale-[1.02] ring-1 ring-inset ring-zinc-50/5 transition-transform duration-300" + classes}>
       <figure className="img-box aspect-square rounded-lg mb-4">
         <img
           src={imgSrc}

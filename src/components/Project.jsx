@@ -10,31 +10,31 @@ import { ProjectCard } from "./ProjectCard";
 
 const projects = [
   {
-    imgSrc: "/src/assets/images/project-guestbook.png",
+    imgSrc: "./images/project-guestbook.png",
     title: "Guestbook BPTIK DIKDUD Jawa Tengah",
     tags: ["Laravel", "MVC", "Development"],
     projectLink: "https://github.com/ajisdzalparo/Guestbook_BPTIK_DIKBUD",
   },
   {
-    imgSrc: "/src/assets/images/project-tiket-wisata.png",
+    imgSrc: "./images/project-tiket-wisata.png",
     title: "Web Pemesanan Tiket Wisata - Codeigniter 3",
     tags: ["Codeigniter", "PHP"],
     projectLink: "https://pixstock-official.vercel.app/",
   },
   {
-    imgSrc: "/src/assets/images/project-stickynote.png",
+    imgSrc: "./images/project-stickynote.png",
     title: "Vue 3 Sticky Note",
     tags: ["Vue 3", "Frontend"],
     projectLink: "https://sticky-note-vue-3.vercel.app/",
   },
   {
-    imgSrc: "/src/assets/images/project-kulineran.png",
+    imgSrc: "./images/project-kulineran.png",
     title: "Kulineran Vue 2",
     tags: ["Vue2", "Frontend", "eCommerce"],
     projectLink: "https://github.com/ajisdzalparo/Front-End-Kulineran-Vue-2",
   },
   {
-    imgSrc: "/src/assets/images/project-simple-blog.png",
+    imgSrc: "./images/project-simple-blog.png",
     title: "Simple Blog",
     tags: ["simple blog", "React.js"],
     projectLink: "https://github.com/ajisdzalparo/simple-blog-reactjs",

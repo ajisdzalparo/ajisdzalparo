@@ -102,7 +102,7 @@ export const Footer = () => {
               href="/"
               className="logo reveal-up">
               <img
-                src="src/assets/images/logo.png"
+                src="./images/logo.png"
                 width={40}
                 height={40}
                 alt=""

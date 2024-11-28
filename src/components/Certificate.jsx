@@ -8,7 +8,7 @@ import { CertificateCard } from "./CertificateCard";
 const certificate = [
   {
     title: "Belajar React.js Fundamental",
-    imgSrc: "./src/assets/images/sertifikat-react.png",
+    imgSrc: "./images/sertifikat-react.png",
     penerbit: "Codepolitan -  Kelas Fullstack",
     terbit: "November 2024",
     desc: "Mempelajar React JS fundamental pada course kelas fullstack codepolitan",
@@ -16,7 +16,7 @@ const certificate = [
   },
   {
     title: "Belajar Cepat Vue JS 2",
-    imgSrc: "./src/assets/images/sertifikat-vue.png",
+    imgSrc: "./images/sertifikat-vue.png",
     penerbit: "Codepolitan -  Kelas Fullstack",
     terbit: "Oktober 2023",
     desc: "Menguasai Vue JS pada course kelas fullstack codepolitan",
@@ -24,7 +24,7 @@ const certificate = [
   },
   {
     title: "Belajar Konsep OOP di JavaScript",
-    imgSrc: "./src/assets/images/sertifikat-javascript-oop.png",
+    imgSrc: "./images/sertifikat-javascript-oop.png",
     penerbit: "Codepolitan -  Kelas Fullstack",
     terbit: "Oktober 2023",
     desc: "Menguasai Vue JS pada course kelas fullstack codepolitan",
@@ -32,7 +32,7 @@ const certificate = [
   },
   {
     title: "Belajar JavaScript Asynchronous",
-    imgSrc: "./src/assets/images/sertifikat-javascript-asynchronous.png",
+    imgSrc: "./images/sertifikat-javascript-asynchronous.png",
     penerbit: "Codepolitan -  Kelas Fullstack",
     terbit: "September 2024",
     desc: "Menguasai JavaScript Asynchronous pada course kelas fullstack codepolitan",
@@ -40,7 +40,7 @@ const certificate = [
   },
   {
     title: "Belajar JavaScript DOM",
-    imgSrc: "./src/assets/images/sertifikat-belajar-dom.png",
+    imgSrc: "./images/sertifikat-belajar-dom.png",
     penerbit: "Codepolitan -  Kelas Fullstack",
     terbit: "Juli 2023",
     desc: "Menguasai JavaScript DOM pada course kelas fullstack codepolitan",
@@ -48,7 +48,7 @@ const certificate = [
   },
   {
     title: "Belajar Dasar Node.JS",
-    imgSrc: "./src/assets/images/sertifikat-nodejs.png",
+    imgSrc: "./images/sertifikat-nodejs.png",
     penerbit: "Bisa AI Academy",
     terbit: "November 2022",
     desc: "Mempelajari Node.js pada course Bisa AI Academy - MSIB",
@@ -65,7 +65,7 @@ export const Certificate = () => {
         <h2 className="headline-2 text-2xl font-semibold text-center text-white mb-8 reveal-up">What certificates do I have</h2>
 
         {/* Flex container with responsive grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 reveal-up">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 md:gap-4 reveal-up hover:scale-[1.02]">
           {certificate.map(({ imgSrc, title, penerbit, terbit, desc, link }, key) => (
             <CertificateCard
               key={key}

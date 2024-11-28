@@ -24,7 +24,7 @@ export const Header = () => {
               href="/"
               className="logo">
               <img
-                src="/src/assets/images/logo.png"
+                src="./images/logo.png"
                 width={40}
                 height={40}
                 alt="Ajis Dzalparo"

@@ -9,7 +9,7 @@ export const About = () => {
       id="about"
       className="section text-zinc-300 py-12">
       <div className="container mx-auto px-6">
-        <div className="bg-zinc-800/50 p-8 rounded-2xl md:p-12 reveal-up">
+        <div className="bg-zinc-800 p-8 rounded-2xl md:p-12 reveal-up">
           {/* Deskripsi Tentang */}
           <p className="text-zinc-300 mb-6 md:mb-10 md:text-xl leading-relaxed">
             Saya adalah seorang fresh graduate di bidang Teknik Informatika dengan keahlian di pengembangan website. Memiliki pengalaman organisasi di IT club dan bekerja di proyek seperti buku tamu berbasis web. Saya antusias belajar dan

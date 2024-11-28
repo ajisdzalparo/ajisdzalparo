@@ -13,9 +13,9 @@ export const CertificateCard = ({ imgSrc, title, penerbit, terbit, desc, link })
         href={link}
         target="_blank"
         rel="noopener noreferrer"
-        className="w-full max-w-[400px] bg-zinc-800/50 p-4 mb-6 rounded-lg shadow-md hover:shadow-lg transition-all ease-in-out transform hover:scale-105 reveal-up">
+        className="w-full max-w-[400px] bg-zinc-800 p-4 mb-6 rounded-lg shadow-md hover:shadow-lg transition-all ease-in-out transform hover:scale-[1.02]">
         {/* Gambar Sertifikat */}
-        <figure className="w-full mb-4 reveal-up`">
+        <figure className="w-full mb-4 reveal-up">
           <img
             src={imgSrc}
             alt={title}
