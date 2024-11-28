@@ -25,7 +25,7 @@ export const About = () => {
                 <h3 className="text-xl font-semibold text-sky-400">Universitas AKI Semarang</h3>
                 <p className="mt-2">Jurusan: Teknik Informatika</p>
                 <p className="mt-2">Tahun Kelulusan: 2024</p>
-                <p className="mt-2">IPK: 3.31</p>
+                <p className="mt-2">IPK: 3.32</p>
               </div>
 
               {/* Nilai Tambah */}
