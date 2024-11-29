@@ -60,7 +60,7 @@ export const Hero = () => {
               <ButtonPrimary
                 label="Download CV"
                 icon="download"
-                href="https://drive.google.com/file/d/1pdE4HpNg6YWCDngqViQCFmNxmcWoq3Sc/view?usp=sharing"
+                href="https://drive.google.com/file/d/14H3RjxTi_tLLrX4dhvWbGRiT8i4ssyX6/view"
                 target="_blank"
               />
               <ButtonOutline

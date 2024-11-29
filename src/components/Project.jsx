@@ -39,6 +39,12 @@ const projects = [
     tags: ["simple blog", "React.js"],
     projectLink: "https://github.com/ajisdzalparo/simple-blog-reactjs",
   },
+  {
+    imgSrc: "./images/project-id-shop.png",
+    title: "Simple E Commerce",
+    tags: ["eCommerce", "VueJS"],
+    projectLink: "https://simple-e-commerce-vue.vercel.app/",
+  },
 ];
 
 export const Project = () => {
