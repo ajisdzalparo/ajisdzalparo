@@ -111,7 +111,7 @@ export const Footer = () => {
 
             <p className="text-zinc-500 text-sm reveal-up">
               &copy; {new Date().getFullYear()}
-              <span className="text-zinc-200"> Ajis Dzalparo</span>
+              <span className="text-zinc-200"> Ajis Dzalparo | Development with ReactJS</span>
             </p>
           </div>
         </div>
