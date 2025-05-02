@@ -27,13 +27,13 @@ Hello! I'm **[Ajis Dzalparo](https://github.com/ajisdzalparo)**, a passionate **
 - 📝 [Portfolio Website](https://ajisdzalparo-portfolio.vercel.app/)
 - 📧 Email me at: [ajisdzalparo22@gmail.com](ajisdzalparo22@gmail.com)
 
-## 🚀 Highlighted Projects
+<!-- ## 🚀 Highlighted Projects
 
 - **[Guestbook System (Thesis Project)](https://github.com/ajisdzalparo):** A system built for managing guestbook entries, focusing on smooth user experience.
 - **[Neveres Office Project (React JS)](https://github.com/ajisdzalparo):** Office system for the brand **Neveres**, utilizing React JS for efficient workflow management.
 - **[Toko Lobo (React JS)](https://github.com/ajisdzalparo):** A React-based office system for **Toko Lobo**, implementing modern frontend practices.
 - **[Simple E-Commerce (Vue JS)](https://github.com/ajisdzalparo):** A personal project for a basic e-commerce frontend using Vue JS.
-- **[CRUD with Express JS](https://github.com/ajisdzalparo):** Learning and practicing **Express JS** through simple CRUD operations.
+- **[CRUD with Express JS](https://github.com/ajisdzalparo):** Learning and practicing **Express JS** through simple CRUD operations. -->
 
 ## My Github Stats
 
