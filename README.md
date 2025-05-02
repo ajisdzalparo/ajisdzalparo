@@ -13,7 +13,7 @@ Hello! I'm **[Ajis Dzalparo](https://github.com/ajisdzalparo)**, a passionate **
 
 - 🔍 Deepening my knowledge of **Next.js** and **Vue.js** for frontend development
 - 💡 Exploring **penetration testing** and cybersecurity topics
-- 💻 Enhancing my skills with **TypeScript**, **Redux**, **Tailwind CSS**, and **Material UI**
+- 💻 Enhancing my skills with **TypeScript**, **Redux**, **NextJs**, and **ReacJS**
 
 ## 🛠️ Tools & Technologies
 
