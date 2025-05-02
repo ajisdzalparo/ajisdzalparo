@@ -42,6 +42,10 @@ Hello! I'm **[Ajis Dzalparo](https://github.com/ajisdzalparo)**, a passionate **
 
 [![Ajis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajisdzalparo&show_icons=true&theme=merko)](https://github.com/ajisdzalparo/github-readme-stats)
 
-![Pacman Animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
-
 🔭 I’m always open to collaborating on projects that push boundaries and encourage growth! Let’s connect and create something amazing.
+
+---
+
+![Pacman Animation](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
+---
