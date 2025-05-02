@@ -1,6 +1,7 @@
+# 👾 Welcome to My GitHub Profile 👾
+
 ![Ajis](public/images/banner.png)
 
-# 👾 Welcome to My GitHub Profile 👾
 
 ## 🧑‍💻 About Me
 
