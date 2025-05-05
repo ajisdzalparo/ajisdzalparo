@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **[Ajis Dzalparo](https://github.com/ajisdzalparo)**, a passionate **Frontend Developer**, **Software Engineer**, **Researcher**, and lifelong learner. Currently, I’m focused on building **innovative solutions** in the **Mechanical Engineering** and **AI** spaces, while also refining my **web development** skills.
+Hello! I'm **[Ajis Dzalparo](https://github.com/ajisdzalparo)**, a passionate **Frontend Developer**, and lifelong learner. Currently, I’m focused on building **innovative solutions** in the **Mechanical Engineering** and **AI** spaces, while also refining my **web development** skills.
 
 - 💻 I specialize in **Frontend Development** with **React JS**, **Vue JS**, and **Laravel**. I also work with **Express JS** for backend development and **Full-Stack Web Development**.
 - 🎶 Outside of tech, I’m a **deathcore** music enthusiast and an aspiring **musician**.
