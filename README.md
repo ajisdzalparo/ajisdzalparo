@@ -38,7 +38,7 @@ Hello! I'm **[Ajis Dzalparo](https://github.com/ajisdzalparo)**, a passionate **
 
 ## My Github Stats
 
-[![Ajis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajisdzalparo&show_icons=true&theme=merko)](https://github.com/ajisdzalparo/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ajisdzalparo?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 🔭 I’m always open to collaborating on projects that push boundaries and encourage growth! Let’s connect and create something amazing.
 
